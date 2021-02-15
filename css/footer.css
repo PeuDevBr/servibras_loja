@@ -1,0 +1,16 @@
+/* -------- Footer -------- */
+
+.footer {
+  margin-top: 12rem;
+  height: 6.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.footer img {
+  height: 3rem;
+  max-width: 15rem;
+  margin: 0.5rem;
+  border-radius: 0.3rem;
+}
